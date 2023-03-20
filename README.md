@@ -1,5 +1,5 @@
 
-1. The code-challenge folder contains app (reactjs) and api (nodejs server)
+1. The code-challenge folder contains app (reactjs) and api (nodejs server).
 
 2. Please run the nodejs server, it runs on locahost:3000
 	### nodemon server
